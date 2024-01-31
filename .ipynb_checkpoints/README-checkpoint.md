@@ -13,7 +13,8 @@ The actual episodes are not available here, but they can be accessed on various 
 All the data presented here was sourced from: https://www.hgtv.com/shows/house-hunters/episodes/
 
 
-![House Hunters Map](Map_2.jpg)
+![House Hunters Map](Map_2.JPG)
+
 
 To interect with the data use the link below:
 
